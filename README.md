@@ -1,1 +1,2 @@
-# Projet-InTab
+# Projet TP2 STRUCTURE DISCRETE
+AKPATA Kodjo Pierre
